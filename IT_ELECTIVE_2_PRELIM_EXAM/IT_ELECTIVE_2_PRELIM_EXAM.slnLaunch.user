@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "IT_ELECTIVE_2_PRELIM_EXAM\\IT_ELECTIVE_2_PRELIM_EXAM.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "IT_ELECTIVE_2_PRELIM_EXAM_HttpClient\\IT_ELECTIVE_2_PRELIM_EXAM_HttpClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
